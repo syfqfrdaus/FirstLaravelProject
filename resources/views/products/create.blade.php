@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Create a New Product</h1>
+    <h1>TEST</h1>
     <div>
         @if($errors ->any())
         <ul>
