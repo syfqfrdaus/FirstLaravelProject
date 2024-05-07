@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Create a New Product to be Inserted into Database</h1>
+    <h1>Create a New Product</h1>
     <div>
         @if($errors ->any())
         <ul>
